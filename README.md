@@ -28,7 +28,7 @@
         <p>Follow these steps to install and run the application locally:</p>
         <ol>
             <li><strong>Clone the repository:</strong>
-                <pre><code>git clone https://github.com/YOUR_GITHUB_USERNAME/animal-directory.git</code></pre>
+                <pre><code>git clone https://github.com/Tejws/Aureal-Project.git</code></pre>
             </li>
             <li><strong>Navigate to the project folder:</strong>
                 <pre><code>cd animal-directory</code></pre>
