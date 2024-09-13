@@ -69,6 +69,7 @@
                 <pre><code>npm install</code></pre>
             </li>
         </ol>
+![Aureal-1](https://github.com/user-attachments/assets/f6616fda-052d-40fa-b968-64b3e3b8d1c9)
 
    <h2>Running the Application</h2>
         <p>To start the application, use the following command:</p>
