@@ -37,8 +37,16 @@
                 <pre><code>npm install</code></pre>
             </li>
         </ol>
-(https://github.com/user-attachments/assets/f6616fda-052d-40fa-b968-64b3e3b8d1c9)
+<h2 id="screenshots">Screenshots</h2>
+    <p>Include screenshots of your application here.</p>
+    
+   ![Aureal-1](https://github.com/user-attachments/assets/9848cd75-8909-4a99-a66f-4c97a9466f8e)
+   ![Aureal-2](https://github.com/user-attachments/assets/7fadfca1-ed13-41da-8cc4-b4a65c33334b)
 
+   ![Aureal-3](https://github.com/user-attachments/assets/319ba775-5f0f-480a-af6d-701f269dd1ec)
+ 
+   ![Aureal-4](https://github.com/user-attachments/assets/bd7e3de6-9a6f-4963-a06f-e168399c18a0)
+   
    <h2>Running the Application</h2>
         <p>To start the application, use the following command:</p>
         <pre><code>npm run dev</code></pre>
