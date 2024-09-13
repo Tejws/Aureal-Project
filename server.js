@@ -1,8 +1,17 @@
 const express = require('express');
 const bodyParser = require('body-parser');
+const path = require('path');
 
 const app = express();
 app.use(bodyParser.json());
+
+// Serve static files (HTML, CSS, JS)
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Serve the index.html for the root route
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
 
 let animals = [
   { id: 1, name: 'Lion', species: 'Panthera leo' },
