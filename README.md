@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-      <h1>Animal Directory CRUD Application</h1>
+      <h1>Animal Directory CRUD Application</h1> 
        <p>This is a basic CRUD (Create, Read, Update, Delete) application for managing a directory of animals using Node.js and Express with a simple frontend user interface.</p>
 
 <h2>Features</h2>
